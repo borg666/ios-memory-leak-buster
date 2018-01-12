@@ -1,0 +1,6 @@
+framework module Pods_MemoryLeakBuster {
+  umbrella header "Pods-MemoryLeakBuster-umbrella.h"
+
+  export *
+  module * { export * }
+}

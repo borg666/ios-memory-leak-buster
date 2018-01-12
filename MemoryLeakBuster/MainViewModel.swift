@@ -1,0 +1,5 @@
+import RxSwift
+
+class MainViewModel {
+
+}
